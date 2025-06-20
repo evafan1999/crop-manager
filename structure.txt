@@ -1,0 +1,26 @@
+.
+├── crop-backend
+│   ├── __pycache__
+│   ├── crops.db
+│   ├── crud.py
+│   ├── database.py
+│   ├── main.py
+│   ├── models.py
+│   ├── routers
+│   ├── schemas.py
+│   ├── static
+│   ├── uploaded_images
+│   └── utils
+├── crop-frontend
+│   ├── README.md
+│   ├── eslint.config.js
+│   ├── index.html
+│   ├── node_modules
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── public
+│   ├── src
+│   └── vite.config.js
+└── structure.txt
+
+11 directories, 13 files
